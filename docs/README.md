@@ -70,12 +70,16 @@ If you have a custom domain:
 
 ```
 docs/
-├── index.html          ← Main page (complete)
-├── frameworks.html     ← Framework details (to be created)
-├── exercises.html      ← Exercise materials (to be created)
-├── retailflow.html     ← Case study (to be created)
-├── templates.html      ← Downloadable templates (to be created)
-└── README.md          ← This file
+├── index.html              ← Main page (complete)
+├── pre-readings.html       ← Pre-course reading materials (complete)
+├── pre-readings/           ← Pre-reading files
+│   ├── why-ai-projects-fail.html
+│   ├── ai-transformation-of-project-management.html
+│   └── AI_Impact_on_Project_Management_Report.html
+├── activities/             ← Exercise materials (complete)
+├── handouts/               ← Downloadable templates (complete)
+├── content/                ← Slide decks (complete)
+└── README.md              ← This file
 ```
 
 ## Future Enhancements
@@ -103,14 +107,18 @@ GitHub Pages will automatically rebuild (takes 1-2 minutes).
 
 ## Current Status
 
-✅ **index.html** - Complete landing page with:
-- Course overview
-- 6 frameworks overview
-- 4 exercises descriptions
-- Full schedule
-- Resource links
+✅ **index.html** - Complete companion site with integrated sections:
+- Home: Course overview with quick links to all materials
+- Pre-Readings: 3 curated readings to prepare for the masterclass
+- Activities: Exercise materials (case briefs, role cards, constraint scenarios)
+- Handouts: Tools and templates (frameworks, decision matrices)
+- Content: Presentation slides in multiple formats
 
-🔲 **Additional pages** - Placeholder links ready for future content
+✅ **Folders:**
+- activities/ - Exercise materials (interactive cards, case briefs, scenario cards)
+- handouts/ - Downloadable templates and frameworks
+- content/ - Slide decks and presentations
+- pre-readings/ - Full pre-reading documents (HTML files)
 
 ---
 

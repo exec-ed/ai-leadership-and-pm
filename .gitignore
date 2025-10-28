@@ -1,0 +1,24 @@
+# Ignore all files by default
+*
+
+# Except markdown files everywhere
+!*.md
+
+# And allow directories (so we can traverse into them)
+!*/
+
+# Allow everything in docs/ folder
+!docs/
+docs/**
+
+# Allow everything in retailflow-site/ folder
+!retailflow-site/
+retailflow-site/**
+
+# Allow everything in content/images/ folder
+!content/
+!content/images/
+content/images/**
+
+# Keep this .gitignore file tracked
+!.gitignore

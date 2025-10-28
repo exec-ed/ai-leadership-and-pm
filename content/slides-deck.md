@@ -1,284 +1,251 @@
-# AI Leadership & Project Management - Complete Slide Deck
-## One-Day Masterclass Presentation
-**Duration:** Full day (9:00am - 4:30pm)  
-**Format:** Unified presentation with exercise transitions and closing synthesis
-
+---
+title: "AI Leadership & Project Management"
+subtitle: "A Masterclass in Leading Successful AI Implementations"
+author: "Dr. Michael Borck"
+format:
+  html:
+    embed-resources: true
+  pdf: default
+  docx: default
+  pptx: default
 ---
 
-## SLIDE DECK STRUCTURE
 
-### **MORNING SESSION: FOUNDATIONS & FRAMEWORKS**
+# Welcome
 
----
+![](./images/opening-humans-ai-collaboration.png)
 
-#### **Slide 1: Title Slide**
-**AI in Leadership & Project Management**  
-A Masterclass in Leading Successful AI Implementations
-
-*Your name, credentials*  
-*Date*  
-*RetailFlow Simulation Platform*
-
-**Speaker Notes:**
-- Welcome everyone warmly
-- Brief personal introduction (why you're passionate about this topic)
+::: {.notes}
 - "Today isn't about theory - it's about practice"
-- Set expectation: "You'll work hard, think critically, make difficult decisions"
+- "You'll work hard, think critically, make difficult decisions"
+:::
 
 ---
 
-#### **Slide 2: Today's Journey**
-**Visual:** Timeline graphic showing day's flow
+# Today's Journey
 
-**9:00-10:30am** → Foundations & Frameworks  
-**10:30-12:30pm** → Stakeholder Management & Project Scoping  
-**12:30-1:15pm** → Lunch & Networking  
-**1:15-2:45pm** → Crisis Management in Action  
-**2:45-4:00pm** → Strategic Decisions: Scale or Kill  
-**4:00-4:30pm** → Personal Action Planning & Framework Synthesis
+**Timeline for the Day:**
 
-**Speaker Notes:**
+- 9:00-10:30am → **Foundations & Frameworks**
+- 10:30-11:00am → Morning Tea
+- 11:00-12:30pm → **Stakeholder Management & Project Scoping**
+- 12:30-1:15pm → Lunch & Networking
+- 1:15-2:30pm → **Crisis Management in Action**
+- 2:30-3:00pm → Afternoon Tea
+- 3:00-4:00pm → **Strategic Decisions: Scale or Kill**
+- 4:00-4:30pm → **Personal Action Planning & Framework Synthesis**
+
+::: {.notes}
 - "This is a full, intense day but incredibly rewarding"
 - "You'll leave with practical skills, not just notes"
 - "Every exercise builds on previous learning"
+:::
 
 ---
 
-#### **Slide 3: Learning Outcomes**
-**By end of today, you will be able to:**
+# Learning Outcomes
 
-✅ **Design AI projects** with appropriate scope and success metrics  
-✅ **Manage diverse stakeholders** effectively in AI initiatives  
-✅ **Navigate ethical dilemmas** and value-based decision making  
-✅ **Make informed scale/pivot/kill decisions** for AI pilots  
-✅ **Apply crisis management frameworks** to real AI project challenges
+![](./images/lecture-to-action.png)
 
-**Speaker Notes:**
+**You will:**
+- Design • Manage • Navigate • Decide • Apply
+
+::: {.notes}
 - "These aren't just academic goals"
+- "By end of today: Design AI projects with appropriate scope and success metrics"
+- "Manage diverse stakeholders effectively in AI initiatives"
+- "Navigate ethical dilemmas and value-based decision making"
+- "Make informed scale/pivot/kill decisions for AI pilots"
+- "Apply crisis management frameworks to real AI project challenges"
 - "You'll actually PRACTICE each of these today"
 - "You'll leave with tools you can use Monday morning"
 
----
+**Lecture vs. Practice**
 
-#### **Slide 4: Why This Masterclass is Different**
-**Two columns comparison:**
+Lecture → Decision-making
+Notes → Action
+Passive → Active
+Theory → Muscle Memory
 
-| **Traditional Masterclass** | **Today's Approach** |
-|---------------------------|---------------------|
-| 6 hours of lecture | 1 hour lecture, 5 hours practice |
-| Take notes | Make decisions |
-| Passive learning | Active problem-solving |
-| Remember 10% | Apply 90% |
-| Theory | Experience |
-
-**Speaker Notes:**
-- "You already know how to take notes"
 - "Today you'll experience what AI project leadership FEELS like"
 - "The crises you'll face are based on real projects"
 - "Some of you will feel uncomfortable - that's where learning happens"
+:::
 
 ---
 
-#### **Slide 5: The Brutal Truth About AI Projects**
-**Big bold statistic in center:**
+# The Reality of AI Projects
 
-# 80%
-**of AI projects fail to deliver value**
 
-**Source:** Gartner, 2023
+![](./images/80-20-failure-rates.png)
 
-**Below statistic:**
-**Technical Issues: 20%**  
-- Algorithm doesn't work, Data quality problems, Infrastructure failures
+::: {.notes}
 
-**People & Organizational Issues: 80%**  
-- Stakeholder resistance, Unclear objectives, Poor change management, Ethical oversights, Wrong metrics, Scope creep
+The Brutal Truth About AI Projects. **80% of AI projects fail to deliver value**
 
-**Speaker Notes:**
+*Source: Gartner, 2023*
+
 - "Let that sink in - 4 out of 5 AI projects fail"
+- "Technical Issues: 20% - Algorithm doesn't work, Data quality problems, Infrastructure failures"
+- "People & Organisational Issues: 80% - Stakeholder resistance, Unclear objectives, Poor change management, Ethical oversights, Wrong metrics, Scope creep"
 - "Not because technology doesn't work..."
 - "AI project leadership is NOT primarily about technology"
 - "It's about people, politics, and change"
 - "That's what we're focusing on today"
+:::
 
 ---
 
-#### **Slide 6: Real AI Project Failures**
-**Three brief case examples (icons + text):**
+# Real AI Project Failures
 
-**🏥 Healthcare AI Diagnostic Tool**
-- $5M investment, 2-year development, 95% accuracy in lab testing
-- **FAILED:** Clinicians didn't trust it, refused to use it
-- **Lesson:** Forgot about user adoption
 
-**🏪 Retail Inventory AI**
-- Reduced stockouts by 40% (success!)
-- **FAILED:** Automated away jobs, union backlash, PR disaster
-- **Lesson:** Didn't manage people impact
+![](./images/three-failure-stories.png)
 
-**💰 Bank Loan Approval AI**
-- Improved processing speed by 70%
-- **FAILED:** Discriminated against protected groups
-- **Lesson:** Ethical oversight missing
+::: {.notes}
 
-**Speaker Notes:**
-- "These are real projects (anonymized)"
+🏥 Healthcare: Perfect algorithm, clinicians didn't trust it
+
+🏪 Retail: Worked great, destroyed jobs and PR
+
+💰 Banking: Solved the problem, discriminated against people
+
+
+- "These are real projects (anonymised)"
+- "Healthcare: $5M investment, 2-year development, 95% accuracy in lab testing. Clinicians refused to use it. Forgot about user adoption."
+- "Retail: Reduced stockouts by 40% (success!). Automated away jobs, union backlash, PR disaster. Didn't manage people impact."
+- "Banking: Improved processing speed by 70%. Discriminated against protected groups. Ethical oversight missing."
 - "All had solid technology"
 - "All failed because of people and process issues"
 - "Today you'll practice navigating exactly these challenges"
+:::
 
 ---
 
-#### **Slide 7: Traditional Projects vs. AI Projects**
-**Two-column comparison table:**
+# Traditional vs. AI Projects
 
-| **Traditional Project** | **AI Project** |
-|------------------------|---------------|
-| Requirements known upfront | Requirements emerge through experimentation |
-| Linear progression | Iterative, hypothesis-driven |
-| Success criteria clear | Success criteria evolve |
-| Predictable timeline | "We'll know more after pilot" |
-| Technical risk primary | Organizational risk dominant |
-| Implementation focus | Learning & adaptation focus |
-| Gantt charts rule | Experiments rule |
+![](./images/traditional-vs-ai-paths.png)
 
-**Speaker Notes:**
+::: {.notes}
+
+**Two Different Journeys**
+
+Traditional: Known → Linear → Clear → Predictable → Technical risk
+AI: Emergent → Iterative → Evolving → Experimental → Organisational risk
+
 - "Many of you have led successful traditional projects"
-- "AI projects require DIFFERENT skills"
-- "Not better or worse - different"
+- "AI projects require DIFFERENT skills - not better or worse, different"
+- "Traditional: Requirements known upfront, linear progression, success criteria clear, predictable timeline, technical risk primary, implementation focus, Gantt charts rule"
+- "AI: Requirements emerge through experimentation, iterative/hypothesis-driven, success criteria evolve, we'll know more after pilot, organisational risk dominant, learning & adaptation focus, experiments rule"
 - "Today we focus on what's unique about AI leadership"
+:::
 
 ---
 
-#### **Slide 8: The AI Project Lifecycle**
-**Visual diagram - circular flow:**
+# The AI Project Lifecycle
 
-```
-IDEATION → SCOPING → PILOT → EVALUATION → DECISION
-                                                ↓
-                                    SCALE / PIVOT / KILL
-```
+![](./images/ai-project-lifecycle-journey.png)
 
-**Each phase highlighted:**
-- **Ideation:** Identify opportunity
-- **Scoping:** Define pilot boundaries  
-- **Pilot:** Build and test at small scale
-- **Evaluation:** Measure results rigorously
-- **Decision:** Scale, Pivot, or Kill
-
-**Speaker Notes:**
-- "Most organizations rush through Scoping"
-- "Most fail at Evaluation (don't measure the right things)"
-- "Most struggle with Kill decision (sunk cost fallacy)"
+::: {.notes}
+- "The journey: Ideation → Scoping → Pilot → Evaluation → Decision → Scale/Pivot/Kill (then loop back)"
+- "Most organisations rush through Scoping - that's where you design for success"
+- "Most fail at Evaluation - they don't measure the right things"
+- "Most struggle with Kill decision - sunk cost fallacy is powerful"
 - "Today you'll practice the hardest parts: Scoping, Crisis Management, and Scale/Kill decisions"
+:::
 
 ---
 
-#### **Slide 9: Introducing "Humans in the Loop" Framework**
-**Title:** Beyond Technology: Humans in the Loop  
-**Subtitle:** The Leadership Framework for AI Project Success
+# Core Framework
 
-**Visual:** Diagram showing AI technology surrounded by humans (stakeholders, users, leaders)
+![](./images/three-pillars-framework.png)
 
-**The Core Principle:**
-"AI projects aren't about replacing humans with technology.  
-They're about designing new ways for humans and AI to work together."
+::: {.notes}
+
+## Humans in the Loop
+
+**AI ≠ Replace Humans**
+**AI = Humans + Technology Working Together**
 
 **Three Pillars:**
-1. **Stakeholder Orchestration** - Align diverse interests and motivations
-2. **Change Navigation** - Guide organizations through AI transformation
-3. **Ethical Leadership** - Make values-based decisions under uncertainty
+- Stakeholder Orchestration
+- Change Navigation
+- Ethical Leadership
 
-**Speaker Notes:**
-- "This is framework we'll use throughout today"
-- "It has three pillars - not fluffy, mission-critical"
-- "These pillars will help you navigate every exercise today"
+- "This is the core principle: AI projects aren't about replacing humans with technology"
+- "They're about designing new ways for humans and AI to work together"
+- "This framework will guide us through every exercise today"
+- "These three pillars aren't fluffy - they're mission-critical"
+- "These pillars will help you navigate every challenge you face"
+- "Stakeholder Orchestration: Align diverse interests and motivations"
+- "Change Navigation: Guide organisations through AI transformation"
+- "Ethical Leadership: Make values-based decisions under uncertainty"
+:::
 
 ---
 
-#### **Slide 10: Meet RetailFlow**
-**Company logo/image**
+# Meet RetailFlow
 
-**RetailFlow: Regional Retail Chain**
-- 50 stores across Australia
-- $150M annual revenue
-- 2,000 employees
-- Mix of physical + e-commerce
+50 stores • $150M revenue • 2,000 people • Australia
 
-**Their Challenge:**
-Customer satisfaction dropping (78% → 68%)  
-Response times too slow (26 hours avg)  
-Competition moving faster
+**Problem:** Customer satisfaction 78% → 68%, 26-hour response times
 
-**Their Solution:**
-AI-powered customer service chatbot (pilot project)
+**Solution:** AI chatbot pilot (2 weeks live)
 
-**Speaker Notes:**
+**Your Role:** AI Project Manager
+
+::: {.notes}
 - "This is a realistic but fictional company"
 - "We'll use RetailFlow for all exercises today"
 - "You are the AI Project Manager"
 - "The chatbot pilot launched 2 weeks ago"
+- "It's the mix of physical retail and e-commerce that makes this complex"
+- "Customer satisfaction is dropping, response times are terrible, competition is moving faster"
+- "They've decided to try AI as the solution"
 - "You're about to face the reality of AI project leadership..."
+:::
 
 ---
 
-### **MORNING TEA TRANSITION**
+# Exercise: Stakeholder Speed Dating
 
----
-
-#### **Slide 11: Morning Tea**
-**10:30am - 11:00am**
-
-**Please take a break**
-
-**When you return (11:00am sharp):**
-- Form groups of 5 at your assigned tables
-- Your exercise materials will be waiting
-- Prepare for Stakeholder Speed Dating
-
-**Speaker Notes:**
-- "Great engagement so far"
-- "When you return, we'll dive into hands-on exercises"
-- "Find your group assignments posted on the board"
-
----
-
-### **EXERCISE TRANSITIONS**
-
----
-
-#### **Slide 12: Exercise 1 - Stakeholder Speed Dating**
-**11:00am - 11:45am**
+![](./images/speed-dating.png)
 
 **Objective:** Experience AI project stakeholder perspectives firsthand
 
+::: {.notes}
+
 **What you'll do:**
+
 1. Each person receives a **role card** (one of 6 stakeholders)
-2. Read your role card carefully (3 minutes)
+2. Read your role card carefully
 3. Have **5-minute conversations** with different stakeholders
 4. Stay in character - embrace their fears and motivations
 5. Take notes in your workbook
 
 **Materials:** Role cards will be distributed now
 
-**Speaker Notes:**
 - Distribute role cards (one per person, mixed across tables)
-- Give 3 minutes to read role cards
+- Take a few minutes to read role cards
 - Explain: "You'll rotate conversations every 5 minutes when I ring the bell"
 - "Stay in character - experience their perspective, not your own"
 - Set timer, ring bell every 5 minutes for rotations
+:::
 
 ---
 
-#### **Slide 13: Exercise 2 - Pilot Scoping**
-**11:45am - 12:30pm**
+# Exercise: Pilot Scoping Challenge
+
+![](./images/pilot-program.png)
 
 **Objective:** Design a well-scoped AI pilot for RetailFlow
 
-**The Challenge:**  
+::: {.notes}
+
+**The Challenge:**
 RetailFlow's customer service is broken (26-hour response times, 68% satisfaction)
 
-**Your Task (30 minutes):**
+**Your Task:**
+
 1. Review the **RetailFlow case study** in your packet
 2. Complete the **Pilot Scoping Worksheet** as a group
 3. Define: Scope, metrics, risks, budget, timeline
@@ -286,7 +253,6 @@ RetailFlow's customer service is broken (26-hour response times, 68% satisfactio
 
 **Then... a surprise constraint will change everything**
 
-**Speaker Notes:**
 - "All materials are in your participant packet"
 - "Turn to the Pilot Scoping section"
 - "You have 30 minutes to complete the worksheet"
@@ -295,362 +261,181 @@ RetailFlow's customer service is broken (26-hour response times, 68% satisfactio
 - After 20 minutes: Give 10-minute warning
 - After 30 minutes: Distribute ONE random constraint card per group
 - "You now have 10 minutes to adapt your plan based on this constraint"
+:::
 
 ---
 
-### **LUNCH TRANSITION**
+# Exercise: Crisis Management Simulation
 
----
+![](./images/crisis-storm-timeline.png)
 
-#### **Slide 14: Lunch**
-**12:30pm - 1:15pm**
-
-**Enjoy your break**
-
-**Discussion prompts on tables:**
-- What's the most challenging stakeholder you've managed?
-- Share one AI project experience (good or bad)
-- What are you hoping to learn this afternoon?
-
-**See you back here at 1:15pm sharp**
-
-**Speaker Notes:**
-- "You've earned lunch - great engagement this morning"
-- "When you return at 1:15, we'll dive into the afternoon's crisis simulation"
-- "It's going to be intense, so enjoy the break"
-
----
-
-### **AFTERNOON SESSION: CRISIS MANAGEMENT**
-
----
-
-#### **Slide 15: Exercise 3 - Crisis Management Simulation**
-**1:15pm - 2:30pm**
-
-**The Scenario:**  
-You're 2 months into the RetailFlow chatbot pilot. Week 2 of live deployment.
-
-**You will face 4 crises in 75 minutes:**
-
-1. **Crisis 1:** Data Quality Disaster (20 min)  
-   *Technical failure - AI giving wrong answers*
-
-2. **Crisis 2:** Staff Resistance (25 min)  
-   *People problem - team actively sabotaging*
-
-3. **Crisis 3:** Executive Pressure (25 min)  
-   *Leadership challenge - sponsor demands acceleration*
-
-4. **Crisis 4:** Ethical Dilemma (20 min)  
-   *Values decision - AI works but discriminates*
-
-**Work through each crisis sequentially in your groups**
-
-**Speaker Notes:**
+::: {.notes}
 - "This is the centerpiece of the day"
+- "The Scenario: You're 2 months into the RetailFlow chatbot pilot. Week 2 of live deployment."
+- "You will face 4 crises, each one different"
+- "Crisis 1: Data Quality Disaster - Technical failure, AI giving wrong answers"
+- "Crisis 2: Staff Resistance - People problem, team actively sabotaging"
+- "Crisis 3: Executive Pressure - Leadership challenge, sponsor demands acceleration"
+- "Crisis 4: Ethical Dilemma - Values decision, AI works but discriminates"
+- "Work through each crisis sequentially in your groups"
 - "You'll experience what AI project crises FEEL like"
-- "Work through each crisis in your packet in order"
 - "Some involve role-plays with me - I'll come to your table"
 - "Diagnose, decide, communicate - under time pressure"
 - "Let's begin with Crisis 1 - Data Quality Disaster"
+:::
 
 ---
 
-### **AFTERNOON TEA TRANSITION**
+# Exercise: Scale or Kill Decisions
 
----
 
-#### **Slide 16: Afternoon Tea**
-**2:30pm - 2:45pm**
+![](./images/scale-pivot-kill-decision-tree.png)
 
-**Quick break**
+::: {.notes}
 
-**When you return (2:45pm sharp):**
-- Shift from tactical to strategic thinking
-- Prepare for Scale or Kill decisions
-- Review your Decision Framework reference sheet
+**Three Cases**
 
-**Speaker Notes:**
-- "15-minute break to process what you just experienced"
-- "That was intense - you did great work navigating those crises"
-- "When you return, we'll shift from crisis management to strategic decision-making"
+A: High ROI (but...)
+B: Destroyed morale
+C: Revenue up, satisfaction down
 
----
+**Your Call: SCALE • PIVOT • KILL**
 
-### **CLOSING SESSION: STRATEGIC DECISIONS & SYNTHESIS**
-
----
-
-#### **Slide 17: Exercise 4 - Scale or Kill Decisions**
-**3:00pm - 4:00pm**
-
-**Objective:** Make strategic recommendations on AI projects
-
-**You have 3 case studies:**
-- **Case A:** Clear Success (inventory AI with 733% ROI)
-- **Case B:** Clear Failure (scheduling AI that destroyed morale)
-- **Case C:** Ambiguous One (pricing AI - good revenue, bad customer satisfaction)
-
-**Your Task:**
-For each case, recommend: **SCALE**, **PIVOT**, or **KILL**  
-Defend your decision with evidence and reasoning
-
-**Use your Decision Framework reference sheet**
-
-**Speaker Notes:**
 - "Now you shift from tactical to strategic thinking"
-- "You'll analyze three AI projects and make recommendations"
-- "Case A is straightforward - or is it?"
-- "Case B seems obvious - but learn from it"
-- "Case C is hard - no perfect answer"
+- "You'll analyse three AI projects and make recommendations"
+- "Case A: Clear Success - inventory AI with 733% ROI (but is it straightforward?)"
+- "Case B: Clear Failure - scheduling AI that destroyed morale (but learn from it)"
+- "Case C: Ambiguous - pricing AI, good revenue but bad customer satisfaction (no perfect answer)"
+- "For each case, recommend: SCALE, PIVOT, or KILL"
+- "Defend your decision with evidence and reasoning"
+- "Use your Decision Framework reference sheet"
 - "You have 60 minutes total"
+:::
 
 ---
 
-#### **Slide 18: Personal Reflection & Action Planning**
-**4:00pm - 4:25pm**
+# Personal Reflection
 
-**This is required for your CRL credit**
-
-**In your packet: Personal Reflection Template**
-
-**Take 25 minutes to:**
-1. Reflect on today's key insights
-2. Apply to YOUR current or upcoming AI projects
-3. Create concrete action plan (this week, this month, this quarter)
-4. Commit to ONE thing you'll do differently
-
-**Work individually - this is your personal takeaway**
-
-**Speaker Notes:**
+::: {.notes}
 - "This is the most important part of the day"
 - "You've experienced a lot - now make it personal"
 - "Think about YOUR projects, YOUR challenges, YOUR context"
 - "What's the ONE thing you'll do differently starting Monday?"
 - "This is required for CRL, so complete it thoughtfully"
+:::
 
 ---
 
-#### **Slide 19: Framework Synthesis - Your AI Leadership Toolkit**
-**Visual grid of all frameworks learned:**
+# Synthesis & Takeaways
 
-**Stakeholder Management:**
-- Power-Interest Matrix
-- Role perspective mapping
-- Engagement strategies
+![](./images/six-frameworks.png)
 
-**Project Scoping:**
-- Goldilocks principle
-- Success metric definition
-- Risk mitigation planning
+::: {.notes}
+Your Toolkit: Six Frameworks
 
-**Crisis Response:**
-- Diagnose → Decide → Communicate → Document
-- Technical vs. people vs. leadership vs. ethical challenges
+- **Stakeholder Management**
+- **Project Scoping**
+- **Crisis Response**
+- **Strategic Decisions**
+- **Change Management**
+- **Ethical Leadership**
 
-**Strategic Decisions:**
-- Scale/Pivot/Kill criteria
-- Decision framework questions
-- Risk assessment matrix
-
-**Change Management:**
-- Expect resistance, involve early, communicate constantly
-- Change curve navigation
-
-**Ethical Leadership:**
-- Four key questions (Who benefits? What could go wrong? How do we know? When do we stop?)
-- Values-based decision making
-
-**Speaker Notes:**
 - "You've experienced all of these today"
+- "Stakeholder Management: Power-Interest Matrix, role perspective mapping, engagement strategies"
+- "Project Scoping: Goldilocks principle, success metric definition, risk mitigation planning"
+- "Crisis Response: Diagnose → Decide → Communicate → Document (technical vs. people vs. leadership vs. ethical)"
+- "Strategic Decisions: Scale/Pivot/Kill criteria, decision framework questions, risk assessment matrix"
+- "Change Management: Expect resistance, involve early, communicate constantly, change curve navigation"
+- "Ethical Leadership: Four key questions - Who benefits? What could go wrong? How do we know? When do we stop?"
 - "These aren't just frameworks - they're practical tools"
-- "Keep this reference sheet - use it on every AI project decision you face"
+- "Keep your reference sheet - use it on every AI project decision you face"
 - "The goal isn't perfect decisions - it's defensible decisions with clear reasoning"
+:::
 
 ---
 
-#### **Slide 20: Key Learning Highlights**
-**What makes this different from traditional project management:**
+# Core Insights
 
-**🎯 Core Insights:**
-- **AI projects fail from people issues, not technology (80% vs 20%)**
-- **Stakeholder orchestration is more critical than technical excellence**
-- **No plan survives first contact with reality - flexibility matters**
-- **Ethical decisions aren't optional - they're leadership responsibilities**
-- **Killing bad projects is success, not failure**
 
-**🔄 Decision Principles:**
-- **Data-driven decisions are good, values-driven decisions are essential**
-- **The cost of being wrong about scaling is much higher than cost of being wrong about killing**
-- **When in doubt, run another small experiment rather than scaling prematurely**
+![](./images/five-core-insights-comparisons.png)
 
-**🚀 Monday Morning Actions:**
-- **Map your stakeholders** using the power-interest matrix
-- **Define success metrics** beyond just technical measures
-- **Identify your top 3 risks** and mitigation strategies
-- **Practice one difficult conversation** before you need to have it
+::: {.notes}
 
-**Speaker Notes:**
-- "These aren't just things you heard - they're things you PRACTICED"
+- **People > Technology**
+- **Orchestration > Excellence**
+- **Flexibility > Plans**
+- **Ethics > Metrics**
+- **Kill > Scale (if needed)**
+
+- "AI projects fail from people issues, not technology (80% vs 20%)"
+- "Stakeholder orchestration is more critical than technical excellence"
+- "No plan survives first contact with reality - flexibility matters"
+- "Ethical decisions aren't optional - they're leadership responsibilities"
+- "Killing bad projects is success, not failure"
 - "You experienced stakeholder resistance firsthand"
 - "You made tough decisions under pressure"
 - "You navigated ethical dilemmas with no perfect answers"
 - "You have muscle memory now, not just theory"
+- "Data-driven decisions are good, values-driven decisions are essential"
+- "The cost of being wrong about scaling >> cost of being wrong about killing"
+- "When in doubt, run another small experiment rather than scaling prematurely"
+:::
 
 ---
 
-#### **Slide 21: Applying Today's Learning**
-**From Classroom to Workplace**
+# Your Action Plan
 
-**Your Action Plan Template:**
+![](./images/action-plan-growth-trajectory.png)
 
-**This Week (Immediate):**
-- What: ________________________
-- Why: ________________________
-- Success looks like: ________________
+::: {.notes}
 
-**This Month (Strategic):**
-- What: ________________________
-- Why: ________________________
-- Success looks like: ________________
+**This Week:**
+What will you do?
 
-**This Quarter (Transformational):**
-- What: ________________________
-- Why: ________________________
-- Success looks like: ________________
+**This Month:**
+What will you change?
 
-**Remember:**
-- **Start small** - apply one framework at a time
-- **Measure what matters** - not just what's easy to measure
-- **Involve early** - don't wait for buy-in, co-create it
-- **Document decisions** - use the frameworks to justify your choices
+**This Quarter:**
+What will transform?
 
-**Speaker Notes:**
 - "The goal isn't to overwhelm you with a huge to-do list"
-- "Pick ONE thing to do differently this week"
+- "Pick ONE thing to do differently this week - and define why and what success looks like"
+- "Then think about what you'll change this month"
+- "Then what will be different this quarter"
 - "Build momentum with small wins"
 - "Use the frameworks - they're tools, not rules"
-- "You have the capability now - you've practiced it"
+
+**Start small**
+**Measure what matters**
+**Involve early**
+**Document everything**
+
+- "Four principles as you go back to work"
+- "Start small - apply one framework at a time"
+- "Measure what matters - not just what's easy to measure"
+- "Involve early - don't wait for buy-in, co-create it"
+- "Document decisions - use the frameworks to justify your choices"
+:::
 
 ---
 
-#### **Slide 22: Continuing Your Journey**
-**Resources & Ongoing Support**
+![](./images/QR-Code-Feedback.png)
 
-**What you'll receive:**
-- **Digital copies** of all materials (via email)
-- **Decision Framework reference** - keep it handy
-- **Additional reading list** - curated for AI project leaders
-- **Community of practice** invitation (optional)
-
-**Further Learning Opportunities:**
-- **Business Innovation Masterclass** (strategic counterpart to this course)
-- **Advanced AI Project Management** (future offering)
-- **Executive Coaching** (1:1 support available)
-
-**Stay Connected:**
-- **LinkedIn group** for alumni
-- **Monthly newsletter** with AI project insights
-- **Quarterly webinars** with emerging practices
-
-**Speaker Notes:**
+::: {.notes}
 - "This isn't the end of your learning journey"
 - "It's the beginning of applying these capabilities"
+- "Digital copies of all materials will be sent via email"
+- "Business Innovation Masterclass is the strategic counterpart to this course"
 - "The frameworks will evolve as AI technology evolves"
 - "Stay curious, stay humble, stay learning"
 
----
-
-#### **Slide 23: Thank You & Feedback**
-**Please scan and complete before leaving**
-
-![QR CODE HERE](feedback-qr.png){width="40%" fig-align="center"}
-
-**Your feedback helps us improve**
-
-**Before you leave:**
-✅ Submit your Personal Reflection (collection box by door)
-✅ Complete the feedback form
-✅ Take your Decision Framework reference sheet
-✅ Keep your name card for certificate
-
-**Thank you for an intense, engaging day!**
-
 **Apply what you learned.**
 **Lead with humans in the loop.**
-
 **Good luck with your AI projects!**
 
-**Dr. Michael Borck**  
-m.borck@curtin.edu.au
+**Dr. Michael Borck**
+michael.borck@curtin.edu.au
 
-**Speaker Notes:**
-- Display QR code (organizers provided)
 - "Please take 3-4 minutes to complete feedback"
 - "Your honest input helps us improve these masterclasses"
-- Stand near door to thank people as they leave
-- Collect reflection forms as they exit
-- Thank them genuinely - they did great work today
-
----
-
-## SLIDE COUNT & TIMING
-
-### **Total Slides:** 23 core slides
-### **Timing Breakdown:**
-- **Opening (Slides 1-10):** 60 minutes (9:00-10:00am)
-- **Exercise 1 (Slide 12):** 45 minutes (11:00-11:45am)
-- **Exercise 2 (Slide 13):** 45 minutes (11:45am-12:30pm)
-- **Lunch (Slide 14):** 45 minutes (12:30-1:15pm)
-- **Exercise 3 (Slide 15):** 75 minutes (1:15-2:30pm)
-- **Afternoon Tea (Slide 16):** 15 minutes (2:30-2:45pm)
-- **Exercise 4 (Slide 17):** 60 minutes (3:00-4:00pm)
-- **Personal Reflection (Slide 18):** 25 minutes (4:00-4:25pm)
-- **Closing (Slides 19-23):** 5 minutes (4:25-4:30pm)
-
-### **Total Day:** 7.5 hours including breaks
-
----
-
-## FACILITATOR NOTES
-
-### **Key Transitions to Emphasize:**
-1. **From theory to practice** (Slide 10 → 12)
-2. **From individual perspectives to group design** (Slide 12 → 13)
-3. **From design to crisis response** (Slide 14 → 15)
-4. **From tactical to strategic** (Slide 16 → 17)
-5. **From group work to personal application** (Slide 17 → 18)
-6. **From experience to ongoing capability** (Slide 18 → 23)
-
-### **Energy Management:**
-- **High energy opening** (9:00-10:00)
-- **Interactive morning** (11:00-12:30)
-- **Intense afternoon** (1:15-2:30)
-- **Strategic late afternoon** (3:00-4:00)
-- **Reflective closing** (4:00-4:30)
-
-### **Materials Coordination:**
-- **Role cards:** Distribute at Slide 12
-- **Constraint cards:** Distribute during Exercise 2
-- **Crisis packets:** Already in participant materials
-- **Reflection templates:** Already in participant materials
-- **Certificates:** Prepare for distribution at end
-
-### **Success Indicators:**
-- Active participation in all exercises
-- Quality group discussions and debates
-- Personal reflection completion
-- Framework application in real contexts
-- Positive engagement throughout day
-
----
-
-This unified slide deck provides:
-1. **Complete opening presentation** with all frameworks
-2. **Smooth transitions** between all exercises  
-3. **Comprehensive closing synthesis** that reinforces learning
-4. **Professional flow** from start to finish
-5. **All necessary facilitator guidance** for seamless delivery
-
-The deck is designed to be converted to PowerPoint/Keynote and used as-is or customized as needed.
+:::
