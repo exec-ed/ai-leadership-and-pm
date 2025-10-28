@@ -15,10 +15,9 @@ docs/**
 !retailflow-site/
 retailflow-site/**
 
-# Allow everything in content/images/ folder
+# Allow everything in content/ folder
 !content/
-!content/images/
-content/images/**
+content/**
 
 # Keep this .gitignore file tracked
 !.gitignore
