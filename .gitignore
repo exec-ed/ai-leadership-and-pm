@@ -7,17 +7,17 @@
 # And allow directories (so we can traverse into them)
 !*/
 
-# Allow everything in docs/ folder
+# Allow everything in docs/ folder (including HTML, PDF, etc.)
 !docs/
-docs/**
+!docs/**
 
 # Allow everything in retailflow-site/ folder
 !retailflow-site/
-retailflow-site/**
+!retailflow-site/**
 
 # Allow everything in content/ folder
 !content/
-content/**
+!content/**
 
 # Keep this .gitignore file tracked
 !.gitignore
