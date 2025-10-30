@@ -6,10 +6,10 @@ Comprehensive masterclass materials for teaching AI project leadership and decis
 
 ### For Instructors Delivering the Course
 
-1. **Review the structure:** Read `PROJECT_STRUCTURE.md` to understand file organization
+1. **Review the structure:** Read `PROJECT_STRUCTURE.md` to understand file organisation
 2. **Access instructor materials:**
    - Via website: Visit the companion site and click "🔐 Instructor" (password: `instructor2025`)
-   - Via files: All guides are in `/instructor-materials/` organized by activity
+   - Via files: All guides are in `/instructor-materials/` organised by activity
 3. **Prepare materials:**
    - Print facilitator quick reference (your day-of cheat sheet)
    - Print student materials (cards, worksheets) from `/activities/materials/`
@@ -26,7 +26,7 @@ Comprehensive masterclass materials for teaching AI project leadership and decis
 
 ---
 
-## Project Organization
+## Project Organisation
 
 ```
 /activities/materials/     → Cards and cases used IN activities
@@ -45,7 +45,7 @@ Comprehensive masterclass materials for teaching AI project leadership and decis
 /scripts/                  → Build and utility scripts
 ```
 
-**See `PROJECT_STRUCTURE.md` for detailed explanation of the organization logic.**
+**See `PROJECT_STRUCTURE.md` for detailed explanation of the organisation logic.**
 
 ---
 
@@ -225,7 +225,7 @@ Both exist for the same frameworks, just different detail levels.
 
 ## Documentation
 
-- **PROJECT_STRUCTURE.md** - Detailed organization guide (read this!)
+- **PROJECT_STRUCTURE.md** - Detailed organisation guide (read this!)
 - **scripts/render-all.sh** - Build script for generating website
 - **instructor-materials/README.qmd** - Instructor materials guide
 
@@ -234,7 +234,7 @@ Both exist for the same frameworks, just different detail levels.
 ## Questions?
 
 For detailed explanations of:
-- Folder organization logic → See `PROJECT_STRUCTURE.md`
+- Folder organisation logic → See `PROJECT_STRUCTURE.md`
 - Activity delivery structure → See `PROJECT_STRUCTURE.md` > "Activity Delivery Map"
 - File naming conventions → See `PROJECT_STRUCTURE.md` > "File Naming Conventions"
 - Adding new materials → See `PROJECT_STRUCTURE.md` > "Common Tasks"

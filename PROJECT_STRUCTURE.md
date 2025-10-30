@@ -1,13 +1,13 @@
 # PROJECT STRUCTURE GUIDE
 ## AI Leadership & Project Management Masterclass
 
-This document explains the organization of the masterclass materials.
+This document explains the organisation of the masterclass materials.
 
 ---
 
-## Folder Organization Philosophy
+## Folder Organisation Philosophy
 
-The project is organized by **WHO uses the files** and **WHEN they use them**:
+The project is organised by **WHO uses the files** and **WHEN they use them**:
 
 - **`/activities/materials/`** → Materials students USE during activities (cards, cases)
 - **`/instructor-materials/`** → Guides for instructors to FACILITATE activities (organized by activity)
@@ -566,7 +566,7 @@ cd /Users/michael/Projects/ai-leadership-and-pm
    - docs/pre-readings/
    - **docs/instructor/**
 
-3. Creates organized structure in docs/ folder
+3. Creates organised structure in docs/ folder
 
 ### Test the website locally:
 ```bash
