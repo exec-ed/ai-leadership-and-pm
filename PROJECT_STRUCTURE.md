@@ -98,7 +98,7 @@ ai-leadership-and-pm/
 │   │   └── stakeholder-mapping-template.qmd
 │   │
 │   ├── content/                      ← Slides and presentations
-│   │   └── slides-deck.qmd
+│   │   └── slide-deck.md
 │   │
 │   ├── pre-readings/                 ← Pre-course materials
 │   │   ├── what-is-ai.qmd
@@ -309,12 +309,12 @@ This script:
 **Purpose:** Lecture slides and presentation materials
 
 **What's in it:**
-- slides-deck.qmd - Main presentation
+- slide-deck.md - Main presentation
 
 **Rendered to:**
-- docs/content/slides-deck.html
-- docs/content/slides-deck.pdf
-- docs/content/slides-deck.pptx
+- docs/content/slide-deck.html
+- docs/content/slide-deck.pdf
+- docs/content/slide-deck.pptx
 
 **Access:** Via companion site Resources → Slides
 
@@ -656,9 +656,9 @@ open docs/index.html
 3. Check: Output appears in `docs/handouts/`
 
 ### Updating slides
-1. Edit: `content/slides-deck.qmd`
+1. Edit: `content/slide-deck.md`
 2. Run: `./scripts/render-all.sh`
-3. Check: `docs/content/slides-deck.html`, `.pdf`, `.pptx` updated
+3. Check: `docs/content/slide-deck.html`, `.pdf`, `.pptx` updated
 
 ### Adding new instructor materials
 1. Create file in appropriate activity folder: `instructor-materials/activity-X-name/new-guide.qmd`
